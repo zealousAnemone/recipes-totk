@@ -1,737 +1,732 @@
 [
   {
-    "title": "\nNumber\nRecipe\nIngredients\n",
+    "title": "Mushroom Skewer",
     "ingredients": "Any Mushroom",
     "type": "standard"
   },
   {
-    "title": "\n1\nMushroom Skewer\nAny Mushroom\n",
+    "title": "Meat and Mushroom Skewer",
     "ingredients": "Any Meat and any Mushroom",
     "type": "standard"
   },
   {
-    "title": "\n2\nMeat and Mushroom Skewer\nAny Meat and any Mushroom\n",
+    "title": "Fish and Mushroom Skewer",
     "ingredients": "Any Fish and any Mushroom",
     "type": "standard"
   },
   {
-    "title": "\n3\nFish and Mushroom Skewer\nAny Fish and any Mushroom\n",
+    "title": "Meat Skewer",
     "ingredients": "Any Meat",
     "type": "standard"
   },
   {
-    "title": "\n4\nMeat Skewer\nAny Meat\n",
+    "title": "Fish Skewer",
     "ingredients": "Any Fish",
     "type": "standard"
   },
   {
-    "title": "\n5\nFish Skewer\nAny Fish\n",
+    "title": "Seafood Skewer",
     "ingredients": "Any Seafood",
     "type": "standard"
   },
   {
-    "title": "\n6\nSeafood Skewer\nAny Seafood\n",
+    "title": "Copious Meat Skewer",
     "ingredients": "4+ different Meat types",
     "type": "standard"
   },
   {
-    "title": "\n7\nCopious Meat Skewer\n4+ different Meat types\n",
+    "title": "Copious Seafood Skewers",
     "ingredients": "4+ different Fish types",
     "type": "standard"
   },
   {
-    "title": "\n8\nCopious Seafood Skewers\n4+ different Fish types\n",
+    "title": "Steamed Fruit",
     "ingredients": "Any Fruit and any Plant",
     "type": "standard"
   },
   {
-    "title": "\n9\nSteamed Fruit\nAny Fruit and any Plant\n",
+    "title": "Steamed Tomatoes",
     "ingredients": "Hylian Tomato and any Plant",
     "type": "standard"
   },
   {
-    "title": "\n10\nSteamed Tomatoes\nHylian Tomato and any Plant\n",
+    "title": "Steamed Mushrooms",
     "ingredients": "Any Mushroom and any Plant",
     "type": "standard"
   },
   {
-    "title": "\n11\nSteamed Mushrooms\nAny Mushroom and any Plant\n",
+    "title": "Steamed Meat",
     "ingredients": "Any Meat and any Plant",
     "type": "standard"
   },
   {
-    "title": "\n12\nSteamed Meat\nAny Meat and any Plant\n",
+    "title": "Steamed Fish",
     "ingredients": "Any Fish and any Plant",
     "type": "standard"
   },
   {
-    "title": "\n13\nSteamed Fish\nAny Fish and any Plant\n",
+    "title": "Sautéed Peppers",
     "ingredients": "Spicy Pepper",
     "type": "standard"
   },
   {
-    "title": "\n14\nSautéed Peppers\nSpicy Pepper\n",
+    "title": "Sautéed Nuts",
     "ingredients": "Any Nut",
     "type": "standard"
   },
   {
-    "title": "\n15\nSautéed Nuts\nAny Nut\n",
+    "title": "Fried Wild Greens",
     "ingredients": "Any Plant",
     "type": "standard"
   },
   {
-    "title": "\n16\nFried Wild Greens\nAny Plant\n",
+    "title": "Copious Fried Wild Greens",
     "ingredients": "4+ different Plant types",
     "type": "standard"
   },
   {
-    "title": "\n17\nCopious Fried Wild Greens\n4+ different Plant types\n",
+    "title": "Cooked Stambulb",
     "ingredients": "Stambulb",
     "type": "standard"
   },
   {
-    "title": "\n18\nCooked Stambulb\nStambulb\n",
+    "title": "Buttered Stambulb",
     "ingredients": "Stambulb and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n19\nButtered Stambulb\nStambulb and Goat Butter\n",
+    "title": "Copious Mushroom Skewer",
     "ingredients": "4+ different Mushrooms",
     "type": "standard"
   },
   {
-    "title": "\n20\nCopious Mushroom Skewer\n4+ different Mushrooms\n",
+    "title": "Spiced Meat Skewer",
     "ingredients": "Raw Meat and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n21\nSpiced Meat Skewer\nRaw Meat and Goron Spice\n",
+    "title": "Prime Spiced Meat Skewer",
     "ingredients": "Raw Prime Meat and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n22\nPrime Spiced Meat Skewer\nRaw Prime Meat and Goron Spice\n",
+    "title": "Gourmet Spiced Meat Skewer",
     "ingredients": "Raw Gourmet Meat and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n23\nGourmet Spiced Meat Skewer\nRaw Gourmet Meat and Goron Spice\n",
+    "title": "Crab Stir-Fry",
     "ingredients": "Any Crab and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n24\nCrab Stir-Fry\nAny Crab and Goron Spice\n",
+    "title": "Meat and Seafood Fry",
     "ingredients": "Any Seafood and Raw Meat or Raw Bird Drumstick",
     "type": "standard"
   },
   {
-    "title": "\n25\nMeat and Seafood Fry\nAny Seafood and Raw Meat or Raw Bird Drumstick\n",
+    "title": "Prime Meat and Seafood Fry",
     "ingredients": "Any Seafood and Prime Meat or Raw Bird Thigh",
     "type": "standard"
   },
   {
-    "title": "\n26\nPrime Meat and Seafood Fry\nAny Seafood and Prime Meat or Raw Bird Thigh\n",
+    "title": "Gourmet Meat and Seafood Fry",
     "ingredients": "Any Seafood and Gourmet Meat or Raw Whole Bird",
     "type": "standard"
   },
   {
-    "title": "\n27\nGourmet Meat and Seafood Fry\nAny Seafood and Gourmet Meat or Raw Whole Bird\n",
+    "title": "Salt-Grilled Greens",
     "ingredients": "Any Plant and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n28\nSalt-Grilled Greens\nAny Plant and Rock Salt\n",
+    "title": "Salt-Grilled Mushrooms",
     "ingredients": "Any Mushroom and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n29\nSalt-Grilled Mushrooms\nAny Mushroom and Rock Salt\n",
+    "title": "Salt-Grilled Meat",
     "ingredients": "Rock Salt and Raw Meat or Raw Bird Drumstick",
     "type": "standard"
   },
   {
-    "title": "\n30\nSalt-Grilled Meat\nRock Salt and Raw Meat or Raw Bird Drumstick\n",
+    "title": "Salt-Grilled Prime Meat",
     "ingredients": "Rock Salt and Prime Meat or Raw Bird Thigh",
     "type": "standard"
   },
   {
-    "title": "\n31\nSalt-Grilled Prime Meat\nRock Salt and Prime Meat or Raw Bird Thigh\n",
+    "title": "Salt-Grilled Gourmet Meat",
     "ingredients": "Rock Salt and Gourmet Meat or Raw Whole Bird",
     "type": "standard"
   },
   {
-    "title": "\n32\nSalt-Grilled Gourmet Meat\nRock Salt and Gourmet Meat or Raw Whole Bird\n",
+    "title": "Salt-Grilled Fish",
     "ingredients": "Any Fish and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n33\nSalt-Grilled Fish\nAny Fish and Rock Salt\n",
+    "title": "Salt-Grilled Crab",
     "ingredients": "Any Crab and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n34\nSalt-Grilled Crab\nAny Crab and Rock Salt\n",
+    "title": "Herb Sauté",
     "ingredients": "Any Plant and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n35\nHerb Sauté\nAny Plant and Goron Spice\n",
+    "title": "Fragrant Mushroom Sauté",
     "ingredients": "Any Mushroom and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n36\nFragrant Mushroom Sauté\nAny Mushroom and Goron Spice\n",
+    "title": "Pepper Steak",
     "ingredients": "Any Meat and Spicy Pepper",
     "type": "standard"
   },
   {
-    "title": "\n37\nPepper Steak\nAny Meat and Spicy Pepper\n",
+    "title": "Pepper Seafood",
     "ingredients": "Any Fish and Spicy Pepper",
     "type": "standard"
   },
   {
-    "title": "\n38\nPepper Seafood\nAny Fish and Spicy Pepper\n",
+    "title": "Fragrant Seafood Stew",
     "ingredients": "Any Fish, Oil Jar, and Stambulb",
     "type": "standard"
   },
   {
-    "title": "\n39\nFragrant Seafood Stew\nAny Fish, Oil Jar, and Stambulb\n",
+    "title": "Deep-Fried Drumstick",
     "ingredients": "Raw Bird Drumstick and Oil Jar",
     "type": "standard"
   },
   {
-    "title": "\n40\nDeep-Fried Drumstick\nRaw Bird Drumstick and Oil Jar\n",
+    "title": "Deep-Fried Thigh",
     "ingredients": "Raw Bird Thigh and Oil Jar",
     "type": "standard"
   },
   {
-    "title": "\n41\nDeep-Fried Thigh\nRaw Bird Thigh and Oil Jar\n",
+    "title": "Deep-Fried Bird Roast",
     "ingredients": "Raw Whole Bird and Oil Jar",
     "type": "standard"
   },
   {
-    "title": "\n42\nDeep-Fried Bird Roast\nRaw Whole Bird and Oil Jar\n",
+    "title": "Seafood Meunière",
     "ingredients": "Any Seafood (other than Porgy or Salmon), Tabantha Wheat, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n43\nSeafood Meunière\nAny Seafood (other than Porgy or Salmon), Tabantha Wheat, and Goat Butter\n",
+    "title": "Porgy Meunière",
     "ingredients": "Any Porgy, Tabantha Wheat, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n44\nPorgy Meunière\nAny Porgy, Tabantha Wheat, and Goat Butter\n",
+    "title": "Salmon Meunière",
     "ingredients": "Any Salmon, Tabantha Wheat, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n45\nSalmon Meunière\nAny Salmon, Tabantha Wheat, and Goat Butter\n",
+    "title": "Fruit and Mushroom Mix",
     "ingredients": "Any Fruit and any Mushroom",
     "type": "standard"
   },
   {
-    "title": "\n46\nFruit and Mushroom Mix\nAny Fruit and any Mushroom\n",
+    "title": "Simmered Fruit",
     "ingredients": "Any Fruit",
     "type": "standard"
   },
   {
-    "title": "\n47\nSimmered Fruit\nAny Fruit\n",
+    "title": "Copious Simmered Fruit",
     "ingredients": "4+ different Fruit types",
     "type": "standard"
   },
   {
-    "title": "\n48\nCopious Simmered Fruit\n4+ different Fruit types\n",
+    "title": "Simmered Tomato",
     "ingredients": "Hylian Tomato",
     "type": "standard"
   },
   {
-    "title": "\n49\nSimmered Tomato\nHylian Tomato\n",
+    "title": "Fruity Tomato Stew",
     "ingredients": "Hylian Tomato, Fresh Milk, Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n50\nFruity Tomato Stew\nHylian Tomato, Fresh Milk, Rock Salt\n",
+    "title": "Tomato Mushroom Stew",
     "ingredients": "Any Mushroom and Hylian Tomato",
     "type": "standard"
   },
   {
-    "title": "\n51\nTomato Mushroom Stew\nAny Mushroom and Hylian Tomato\n",
+    "title": "Tomato Seafood Soup",
     "ingredients": "Any Seafood and Hylian Tomato",
     "type": "standard"
   },
   {
-    "title": "\n52\nTomato Seafood Soup\nAny Seafood and Hylian Tomato\n",
+    "title": "Cream of Vegetable Soup",
     "ingredients": "Any Plant, Rock Salt, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n53\nCream of Vegetable Soup\nAny Plant, Rock Salt, and Fresh Milk\n",
+    "title": "Veggie Cream Soup",
     "ingredients": "Any Vegetable, Rock Salt, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n54\nVeggie Cream Soup\nAny Vegetable, Rock Salt, and Fresh Milk\n",
+    "title": "Cream of Mushroom Soup",
     "ingredients": "Any Mushroom, any Plant, Rock Salt, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n55\nCream of Mushroom Soup\nAny Mushroom, any Plant, Rock Salt, and Fresh Milk\n",
+    "title": "Creamy Meat Soup",
     "ingredients": "Any Meat, any Plant, Rock Salt, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n56\nCreamy Meat Soup\nAny Meat, any Plant, Rock Salt, and Fresh Milk\n",
+    "title": "Creamy Seafood Soup",
     "ingredients": "Any Seafood, any Plant, Rock Salt, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n57\nCreamy Seafood Soup\nAny Seafood, any Plant, Rock Salt, and Fresh Milk\n",
+    "title": "Snail Chowder",
     "ingredients": "Any Snail, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n58\nSnail Chowder\nAny Snail, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Creamy Heart Soup",
     "ingredients": "Hearty Radish, Hydromelon, Voltfruit, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n59\nCreamy Heart Soup\nHearty Radish, Hydromelon, Voltfruit, and Fresh Milk\n",
+    "title": "Glazed Veggies",
     "ingredients": "Any Plant and Couser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n60\nGlazed Veggies\nAny Plant and Couser Bee Honey\n",
+    "title": "Glazed Mushrooms",
     "ingredients": "Any Mushroom and Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n61\nGlazed Mushrooms\nAny Mushroom and Courser Bee Honey\n",
+    "title": "Glazed Meat",
     "ingredients": "Any Meat and Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n62\nGlazed Meat\nAny Meat and Courser Bee Honey\n",
+    "title": "Glazed Seafood",
     "ingredients": "Any Seafood and Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n63\nGlazed Seafood\nAny Seafood and Courser Bee Honey\n",
+    "title": "Curry Rice",
     "ingredients": "Hylian Rice and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n64\nCurry Rice\nHylian Rice and Goron Spice\n",
+    "title": "Vegetable Curry",
     "ingredients": "Any Vegetable, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n65\nVegetable Curry\nAny Vegetable, Hylian Rice, and Goron Spice\n",
+    "title": "Meat Curry",
     "ingredients": "Raw Meat, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n66\nMeat Curry\nRaw Meat, Hylian Rice, and Goron Spice\n",
+    "title": "Prime Meat Curry",
     "ingredients": "Raw Prime Meat, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n67\nPrime Meat Curry\nRaw Prime Meat, Hylian Rice, and Goron Spice\n",
+    "title": "Gourmet Meat Curry",
     "ingredients": "Raw Gourmet Meat, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n68\nGourmet Meat Curry\nRaw Gourmet Meat, Hylian Rice, and Goron Spice\n",
+    "title": "Poultry Curry",
     "ingredients": "Raw Bird Drumstick, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n69\nPoultry Curry\nRaw Bird Drumstick, Hylian Rice, and Goron Spice\n",
+    "title": "Prime Poultry Curry",
     "ingredients": "Raw Bird Thigh, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n70\nPrime Poultry Curry\nRaw Bird Thigh, Hylian Rice, and Goron Spice\n",
+    "title": "Gourmet Poultry Curry",
     "ingredients": "Raw Whole Bird, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n71\nGourmet Poultry Curry\nRaw Whole Bird, Hylian Rice, and Goron Spice\n",
+    "title": "Seafood Curry",
     "ingredients": "Any Porgy, Hylian Rice, and Goron Spice. (Other Seafood will result in Seafood Rice Balls.)",
     "type": "standard"
   },
   {
-    "title": "\n72\nSeafood Curry\nAny Porgy, Hylian Rice, and Goron Spice. (Other Seafood will result in Seafood Rice Balls.)\n",
+    "title": "Cheesy Curry",
     "ingredients": "Hateno Cheese, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n73\nCheesy Curry\nHateno Cheese, Hylian Rice, and Goron Spice\n",
+    "title": "Carrot Stew",
     "ingredients": "Any Carrot, Goat Butter, Fresh Milk, Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n74\nCarrot Stew\nAny Carrot, Goat Butter, Fresh Milk, Tabantha Wheat\n",
+    "title": "Tough Pumpkin Stew",
     "ingredients": "Fortified Pumpkin, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n75\nTough Pumpkin Stew\nFortified Pumpkin, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Meat Stew",
     "ingredients": "Raw Meat or Raw Bird Drumstick, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n76\nMeat Stew\nRaw Meat or Raw Bird Drumstick, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Prime Meat Stew",
     "ingredients": "Raw Prime Meat or Raw Bird Thigh, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n77\nPrime Meat Stew\nRaw Prime Meat or Raw Bird Thigh, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Gourmet Meat Stew",
     "ingredients": "Raw Gourmet Meat or Raw Whole Bird, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n78\nGourmet Meat Stew\nRaw Gourmet Meat or Raw Whole Bird, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Meat-Stuffed Pumpkin",
     "ingredients": "Any Meat and any Pumpkin",
     "type": "standard"
   },
   {
-    "title": "\n79\nMeat-Stuffed Pumpkin\nAny Meat and any Pumpkin\n",
+    "title": "Vegetable Risotto",
     "ingredients": "Any Vegetable, Hylian Rice, Goat Butter, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n80\nVegetable Risotto\nAny Vegetable, Hylian Rice, Goat Butter, and Rock Salt\n",
+    "title": "Mushroom Risotto",
     "ingredients": "Any Mushroom, Hylian Rice, Goat Butter, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n81\nMushroom Risotto\nAny Mushroom, Hylian Rice, Goat Butter, and Rock Salt\n",
+    "title": "Salmon Risotto",
     "ingredients": "Hearty Salmon, Hylian Rice, Goat Butter, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n82\nSalmon Risotto\nHearty Salmon, Hylian Rice, Goat Butter, and Rock Salt\n",
+    "title": "Crab Risotto",
     "ingredients": "Any Crab, Hylian Rice, Goat Butter, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n83\nCrab Risotto\nAny Crab, Hylian Rice, Goat Butter, and Rock Salt\n",
+    "title": "Cheesy Risotto",
     "ingredients": "Any Fish, Hateno Cheese, Hylian Rice, Goat Butter, and Rock Salt. (The recipe description says Mushrooms can be used, but this results in Mushroom Risotto.)",
     "type": "standard"
   },
   {
-    "title": "\n84\nCheesy Risotto\nAny Fish, Hateno Cheese, Hylian Rice, Goat Butter, and Rock Salt. (The recipe description says Mushrooms can be used, but this results in Mushroom Risotto.)\n",
+    "title": "Poultry Pilaf",
     "ingredients": "Raw Bird Drumstick, Hylian Rice, Goat Butter, and Bird Egg",
     "type": "standard"
   },
   {
-    "title": "\n85\nPoultry Pilaf\nRaw Bird Drumstick, Hylian Rice, Goat Butter, and Bird Egg\n",
+    "title": "Prime Poultry Pilaf",
     "ingredients": "Raw Bird Thigh, Hylian Rice, Goat Butter, and Bird Egg",
     "type": "standard"
   },
   {
-    "title": "\n86\nPrime Poultry Pilaf\nRaw Bird Thigh, Hylian Rice, Goat Butter, and Bird Egg\n",
+    "title": "Gourmet Poultry Pilaf",
     "ingredients": "Raw Whole Bird, Hylian Rice, Goat Butter, and Bird Egg",
     "type": "standard"
   },
   {
-    "title": "\n87\nGourmet Poultry Pilaf\nRaw Whole Bird, Hylian Rice, Goat Butter, and Bird Egg\n",
+    "title": "Seafood Paella",
     "ingredients": "Mighty Porgy, Iron Shell Crab, Hylian Rice, Goat Butter and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n88\nSeafood Paella\nMighty Porgy, Iron Shell Crab, Hylian Rice, Goat Butter and Rock Salt\n",
+    "title": "Curry Pilaf",
     "ingredients": "Hylian Rice, Goron Spice, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n89\nCurry Pilaf\nHylian Rice, Goron Spice, and Goat Butter\n",
+    "title": "Fried Egg and Rice",
     "ingredients": "Bird Egg, Hylian Rice",
     "type": "standard"
   },
   {
-    "title": "\n90\nFried Egg and Rice\nBird Egg, Hylian Rice\n",
+    "title": "Crunchy Fried Rice",
     "ingredients": "Any Meat, Hylian Rice, Oil Jar, and Bird Egg",
     "type": "standard"
   },
   {
-    "title": "\n91\nCrunchy Fried Rice\nAny Meat, Hylian Rice, Oil Jar, and Bird Egg\n",
+    "title": "Seafood Fried Rice",
     "ingredients": "Any Porgy, Hylian Rice, and Rock Salt. (Other Seafood will result in Seafood Rice Balls.)",
     "type": "standard"
   },
   {
-    "title": "\n92\nSeafood Fried Rice\nAny Porgy, Hylian Rice, and Rock Salt. (Other Seafood will result in Seafood Rice Balls.)\n",
+    "title": "Crab Omelet with Rice",
     "ingredients": "Any Crab, Bird Egg, Hylian Rice and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n93\nCrab Omelet with Rice\nAny Crab, Bird Egg, Hylian Rice and Rock Salt\n",
+    "title": "Meat and Rice Bowl",
     "ingredients": "Raw Meat, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n94\nMeat and Rice Bowl\nRaw Meat, Hylian Rice, and Rock Salt\n",
+    "title": "Prime Meat and Rice Bowl",
     "ingredients": "Raw Prime Meat, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n95\nPrime Meat and Rice Bowl\nRaw Prime Meat, Hylian Rice, and Rock Salt\n",
+    "title": "Gourmet Meat and Rice Bowl",
     "ingredients": "Raw Gourmet Meat, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n96\nGourmet Meat and Rice Bowl\nRaw Gourmet Meat, Hylian Rice, and Rock Salt\n",
+    "title": "Cheesy Meat Bowl",
     "ingredients": "Raw Meat, Hateno Cheese, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n97\nCheesy Meat Bowl\nRaw Meat, Hateno Cheese, Hylian Rice, and Rock Salt\n",
+    "title": "Prime Cheesy Meat Bowl",
     "ingredients": "Raw Prime Meat, Hateno Cheese, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n98\nPrime Cheesy Meat Bowl\nRaw Prime Meat, Hateno Cheese, Hylian Rice, and Rock Salt\n",
+    "title": "Gourmet Cheesy Meat Bowl",
     "ingredients": "Raw Gourmet Meat, Hateno Cheese, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n99\nGourmet Cheesy Meat Bowl\nRaw Gourmet Meat, Hateno Cheese, Hylian Rice, and Rock Salt\n",
+    "title": "Veggie Rice Balls",
     "ingredients": "Any Plant and Hylian Rice",
     "type": "standard"
   },
   {
-    "title": "\n100\nVeggie Rice Balls\nAny Plant and Hylian Rice\n",
+    "title": "Mushroom Rice Balls",
     "ingredients": "Any Mushroom and Hylian Rice",
     "type": "standard"
   },
   {
-    "title": "\n101\nMushroom Rice Balls\nAny Mushroom and Hylian Rice\n",
+    "title": "Meaty Rice Balls",
     "ingredients": "Any Meat and Hylian Rice",
     "type": "standard"
   },
   {
-    "title": "\n102\nMeaty Rice Balls\nAny Meat and Hylian Rice\n",
+    "title": "Seafood Rice Balls",
     "ingredients": "Any Seafood and Hylian Rice",
     "type": "standard"
   },
   {
-    "title": "\n103\nSeafood Rice Balls\nAny Seafood and Hylian Rice\n",
+    "title": "Veggie Porridge",
     "ingredients": "Any Plant, Hylian Rice, and Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n104\nVeggie Porridge\nAny Plant, Hylian Rice, and Fresh Milk\n",
+    "title": "Wheat Bread",
     "ingredients": "Tabantha Wheat and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n105\nWheat Bread\nTabantha Wheat and Rock Salt\n",
+    "title": "Melty Cheesy Bread",
     "ingredients": "Tabantha Wheat, Rock Salt, and Hateno Cheese",
     "type": "standard"
   },
   {
-    "title": "\n106\nMelty Cheesy Bread\nTabantha Wheat, Rock Salt, and Hateno Cheese\n",
+    "title": "Hylian Tomato Pizza",
     "ingredients": "Tabantha Wheat, Rock Salt, Hylian Tomato, and Hateno Cheese",
     "type": "standard"
   },
   {
-    "title": "\n107\nHylian Tomato Pizza\nTabantha Wheat, Rock Salt, Hylian Tomato, and Hateno Cheese\n",
+    "title": "Meat Pie",
     "ingredients": "Any Meat, Goat Butter, Rock Salt, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n108\nMeat Pie\nAny Meat, Goat Butter, Rock Salt, and Tabantha Wheat\n",
+    "title": "Fish Pie",
     "ingredients": "Any Seafood, Goat Butter, Rock Salt, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n109\nFish Pie\nAny Seafood, Goat Butter, Rock Salt, and Tabantha Wheat\n",
+    "title": "Cheesy Tomato",
     "ingredients": "Hylian Tomato and Hateno Cheese",
     "type": "standard"
   },
   {
-    "title": "\n110\nCheesy Tomato\nHylian Tomato and Hateno Cheese\n",
+    "title": "Cheesy Baked Fish",
     "ingredients": "Any Seafood and Hateno Cheese",
     "type": "standard"
   },
   {
-    "title": "\n111\nCheesy Baked Fish\nAny Seafood and Hateno Cheese\n",
+    "title": "Omelet",
     "ingredients": "Bird Egg",
     "type": "standard"
   },
   {
-    "title": "\n112\nOmelet\nBird Egg\n",
+    "title": "Vegetable Omelet",
     "ingredients": "Any Plant, Bird Egg, Rock Salt, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n113\nVegetable Omelet\nAny Plant, Bird Egg, Rock Salt, and Goat Butter\n",
+    "title": "Mushroom Omelet",
     "ingredients": "Any Mushroom, Bird Egg, Rock Salt, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n114\nMushroom Omelet\nAny Mushroom, Bird Egg, Rock Salt, and Goat Butter\n",
+    "title": "Cheesy Omelet",
     "ingredients": "Any Mushroom or Plant, Bird Egg, Rock Salt, Hateno Cheese, and Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n115\nCheesy Omelet\nAny Mushroom or Plant, Bird Egg, Rock Salt, Hateno Cheese, and Goat Butter\n",
+    "title": "Hot Buttered Apple",
     "ingredients": "Apple, Goat Butter",
     "type": "standard"
   },
   {
-    "title": "\n116\nHot Buttered Apple\nApple, Goat Butter\n",
+    "title": "Honeyed Fruits",
     "ingredients": "Any Fruit (other than Apple), Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n117\nHoneyed Fruits\nAny Fruit (other than Apple), Courser Bee Honey\n",
+    "title": "Honeyed Apple",
     "ingredients": "Apple, Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n118\nHoneyed Apple\nApple, Courser Bee Honey\n",
+    "title": "Honey Candy",
     "ingredients": "Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n119\nHoney Candy\nCourser Bee Honey\n",
+    "title": "Fried Bananas",
     "ingredients": "Mighty Bananas, Tabantha Wheat, and Cane Sugar",
     "type": "standard"
   },
   {
-    "title": "\n120\nFried Bananas\nMighty Bananas, Tabantha Wheat, and Cane Sugar\n",
+    "title": "Egg Pudding",
     "ingredients": "Bird Egg, Fresh Milk, Cane Sugar",
     "type": "standard"
   },
   {
-    "title": "\n121\nEgg Pudding\nBird Egg, Fresh Milk, Cane Sugar\n",
+    "title": "Plain Crepe",
     "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar",
     "type": "standard"
   },
   {
-    "title": "\n122\nPlain Crepe\nTabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar\n",
+    "title": "Wildberry Crepe",
     "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Wildberry",
     "type": "standard"
   },
   {
-    "title": "\n123\nWildberry Crepe\nTabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Wildberry\n",
+    "title": "Honey Crepe",
     "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Courser Bee Honey",
     "type": "standard"
   },
   {
-    "title": "\n124\nHoney Crepe\nTabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Courser Bee Honey\n",
+    "title": "Nut Cake",
     "ingredients": "Any Nut, Goat Butter, Cane Sugar, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n125\nNut Cake\nAny Nut, Goat Butter, Cane Sugar, and Tabantha Wheat\n",
+    "title": "Fruitcake",
     "ingredients": "Any Fruit, Apple or Wildberry, Cane Sugar, Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n126\nFruitcake\nAny Fruit, Apple or Wildberry, Cane Sugar, Tabantha Wheat\n",
+    "title": "Carrot Cake",
     "ingredients": "Any Carrot, Cane Sugar, Goat Butter, Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n127\nCarrot Cake\nAny Carrot, Cane Sugar, Goat Butter, Tabantha Wheat\n",
+    "title": "Pumpkin Pie",
     "ingredients": "Any Pumpkin, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n128\nPumpkin Pie\nAny Pumpkin, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Cheesecake",
     "ingredients": "Hateno Cheese, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n129\nCheesecake\nHateno Cheese, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Fruit Pie",
     "ingredients": "Any Fruit other than Apple or Banana, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n130\nFruit Pie\nAny Fruit other than Apple or Banana, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Apple Pie",
     "ingredients": "Apple, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n131\nApple Pie\nApple, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Egg Tart",
     "ingredients": "Bird Egg, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n132\nEgg Tart\nBird Egg, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Milk",
     "ingredients": "Fresh Milk",
     "type": "standard"
   },
   {
-    "title": "\n133\nMilk\nFresh Milk\n",
+    "title": "Noble Pursuit",
     "ingredients": "Palm Fruit, Hydromelon, Voltfruit, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n134\nNoble Pursuit\nPalm Fruit, Hydromelon, Voltfruit, and Rock Salt\n",
+    "title": "Monster Stew",
     "ingredients": "Monster Extract, any Meat, and any Seafood",
     "type": "standard"
   },
   {
-    "title": "\n135\nMonster Stew\nMonster Extract, any Meat, and any Seafood\n",
+    "title": "Monster Soup",
     "ingredients": "Monster Extract, Goat Butter, Fresh Milk, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n136\nMonster Soup\nMonster Extract, Goat Butter, Fresh Milk, and Tabantha Wheat\n",
+    "title": "Monster Curry",
     "ingredients": "Monster Extract, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n137\nMonster Curry\nMonster Extract, Hylian Rice, and Goron Spice\n",
+    "title": "Monster Rice Balls",
     "ingredients": "Monster Extract, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n138\nMonster Rice Balls\nMonster Extract, Hylian Rice, and Rock Salt\n",
+    "title": "Monster Cake",
     "ingredients": "Monster Extract, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n139\nMonster Cake\nMonster Extract, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Dark Stew",
     "ingredients": "Dark Clump, any Meat, and any Seafood",
     "type": "standard"
   },
   {
-    "title": "\n140\nDark Stew\nDark Clump, any Meat, and any Seafood\n",
+    "title": "Dark Soup",
     "ingredients": "Dark Clump, Fresh Milk, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n141\nDark Soup\nDark Clump, Fresh Milk, Goat Butter, and Tabantha Wheat\n",
+    "title": "Dark Curry",
     "ingredients": "Dark Clump, Hylian Rice, and Goron Spice",
     "type": "standard"
   },
   {
-    "title": "\n142\nDark Curry\nDark Clump, Hylian Rice, and Goron Spice\n",
+    "title": "Dark Rice Ball",
     "ingredients": "Dark Clump, Hylian Rice, and Rock Salt",
     "type": "standard"
   },
   {
-    "title": "\n143\nDark Rice Ball\nDark Clump, Hylian Rice, and Rock Salt\n",
+    "title": "Dark Cake",
     "ingredients": "Dark Clump, Cane Sugar, Goat Butter, and Tabantha Wheat",
     "type": "standard"
   },
   {
-    "title": "\n144\nDark Cake\nDark Clump, Cane Sugar, Goat Butter, and Tabantha Wheat\n",
+    "title": "Dubious Food",
     "ingredients": "Any combination that doesn't result in a successful recipe.",
     "type": "standard"
   },
   {
-    "title": "\n145\nDubious Food\nAny combination that doesn't result in a successful recipe.\n",
+    "title": "Rock-Hard Food",
     "ingredients": "Include any non-edible ingredient.",
-    "type": "standard"
-  },
-  {
-    "title": "\n146\nRock-Hard Food\nInclude any non-edible ingredient.\n",
-    "ingredients": "",
     "type": "standard"
   },
   {
