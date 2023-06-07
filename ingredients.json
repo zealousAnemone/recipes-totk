@@ -1,0 +1,1550 @@
+[
+  {
+    "name": "Acorn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Amber",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Apple",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Armoranth",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Armored Carp",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Armored Porgy",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Big Hearty Radish",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Big Hearty Truffle",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bird Egg",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bladed Rhino Beetle",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Nightshade",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bokoblin Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bokoblin Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bright-Eyed Crab",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Cane Sugar",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Chickaloo Tree Nut",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Chillfin Trout",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Chillshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Chuchu Jelly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Cold Darner",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Cool Safflina",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Courser Bee Honey",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Diamond",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric Darner",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric Keese Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric Safflina",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Energetic Rhino Beetle",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Endura Carrot",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Endura Shroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fairy",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fire Keese Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fireproof Lizard",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fleet-Lotus Seeds",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Flint",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fortified Pumpkin",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fresh Milk",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Goat Butter",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Goron Spice",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Bass",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Blueshell Snail",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Durian",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Lizard",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Radish",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Salmon",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hearty Truffle",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hightail Lizard",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hinox Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hinox Toenail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hinox Tooth",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hot-Footed Frog",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hydromelon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hylian Rice",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hylian Shroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hyrule Bass",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hyrule Herb",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ice Keese Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Icy Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ironshell Crab",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ironshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Keese Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Keese Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lizalfos Talon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Luminous Stone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lynel Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lynel Hoof",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lynel Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Mighty Bananas",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Mighty Carp",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Mighty Porgy",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Mighty Thistle",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Moblin Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Moblin Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Moblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Molduga Fin",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Molduga Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Monster Extract",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Octo Balloon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Octorok Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Octorok Tentacle",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Opal",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Palm Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Bird Thigh",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Bird Drumstick",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Gourmet Meat",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Meat",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Prime Meat",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Raw Whole Bird",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Razorclaw Crab",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Razorshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Red Chuchu Jelly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Red Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Restless Cricket",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Rock Salt",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ruby",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Rugged Rhino Beetle",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Rushroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sanke Carp",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sapphire",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silent Princess",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silent Shroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sizzlefin Trout",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Smotherwing Butterfly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sneaky River Snail",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Spicy Pepper",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Stamella Shroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Staminoka Bass",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Star Fragment",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Stealthfin Trout",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Summerwing Butterfly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sunset Firefly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sunshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Swift Carrot",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Swift Violet",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Tabantha Wheat",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Thunderwing Butterfly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Tireless Frog",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Topaz",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Voltfin Trout",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Voltfruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Warm Darner",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Warm Safflina",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "White Chuchu Jelly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Wildberry",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Winterwing Butterfly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Wood",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Yellow Chuchu Jelly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Yellow Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Zapshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Golden Apple",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Soldier Construct Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fire Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Muddle Bud",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Puffshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Bomb Flower",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Zonai Charge",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Zonaite",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Stambulb",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Skyshroom",
+    "category": "mushroom",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Korok Frond",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Captain Construct I Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Like Like Stone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Giant Brightbloom Seed",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Brightbloom Seed",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ancient Arowana",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hylian Tomato",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shock Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Splash Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dazzlefruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Brightcap",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sundelion",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Glowing Cave Fish",
+    "category": "seafood",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dark Clump",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Deep Firefly",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sticky Lizard",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sticky Frog",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Horriblin Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Aerocuda Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Soldier Construct II Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Boss Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Boss Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shock Like Stone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hinox Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Horriblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Horriblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Moblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Boss Bokoblin Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Horriblin Claw",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hylian Pine Cone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Large Zonaite",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Large Zonai Charge",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Oil Jar",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Captain Construct II Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ice-Breath Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fire-Breath Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Aerocuda Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ice Keese Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ice Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Hinox Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Horriblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Hinox Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue-Maned Lynel Mace Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue-White Frox Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Boss Bokoblin Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Captain Construct III Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Captain Construct IV Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dazzle Fruit",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Deep Lightning Bug",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dinraal's Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dinraal's Talon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric-Breath Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric Keese Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Farosh's Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Farosh's Talon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fire Keese Eyeball",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Fire Like Stone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Frox Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Frox Fingernail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gibdo Bone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gibdo Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gibdo Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Electric Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Flame Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Frost Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Guts",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Wing",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Hateno Cheese",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Ice Like Stone",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Light Dragon's Claw",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Light Dragon's Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Light Dragon's Scale",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Light Dragon's Talon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lynel Mace Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Naydra's Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Naydra's Talon",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Obsidian Frox Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Dinraal's Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Farosh's Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Light Dragon's Fang",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Light Dragon's Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Naydra's Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Boss Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Horriblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Lizalfos Tail",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Lynel Mace Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Lynel Saber Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Moblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Soldier Construct III Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Soldier Construct IV Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Stalnox Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Sun Pumpkin",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "White-Maned Lynel Saber Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Boss Bokoblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Black Moblin Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Electric Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Silver Lizalfos Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Lynel Saber Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Blue-Maned Lynel Saber Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "White-Maned Lynel Mace Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Molduga Jaw",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Gleeok Thunder Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Dinraal’s Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Dinraal’s Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Naydra’s Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Naydra’s Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Farosh’s Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Farosh’s Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Light Dragon’s Horn",
+    "category": "",
+    "description": "",
+    "effect": ""
+  },
+  {
+    "name": "Shard of Light Dragon’s Spike",
+    "category": "",
+    "description": "",
+    "effect": ""
+  }
+]
